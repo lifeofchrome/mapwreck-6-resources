@@ -1,6 +1,46 @@
 {
     "sources": [
-        {"type": "single","resource": "delta:transparent"},
+        {
+            "type": "single",
+            "resource": "inasa:coas/ender_pearl"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:coas/golden_carrot"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:coas/interaction"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:coas/upsidown_carrot"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/redstone_dust"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/outline"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/block/stone"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/block/tnt/side"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/block/tnt/top"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/block/tnt/bottom"
+        },
+		{"type": "single","resource": "delta:transparent"},
         {"type": "single","resource": "delta:particle/cull"},
         {"type": "single","resource": "particle/explosion_0"},
         {"type": "single","resource": "particle/explosion_1"},
