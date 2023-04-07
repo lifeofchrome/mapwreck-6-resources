@@ -1,0 +1,7 @@
+{
+	"parent": "area_0:perk_bottles/parent",
+	"textures": {
+		"0": "area_0:perk_bottles/missing",
+		"particle": "area_0:perk_bottles/missing"
+	}
+}

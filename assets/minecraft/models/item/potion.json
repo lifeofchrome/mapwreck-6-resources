@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5301}, "model": "area_0:perk_bottles/liquid"},
+		{"predicate": {"custom_model_data":5302}, "model": "area_0:perk_bottles/missing"},
+		{"predicate": {"custom_model_data":5303}, "model": "area_0:perk_bottles/slime"},
+		{"predicate": {"custom_model_data":5304}, "model": "area_0:perk_bottles/swiftness"}
+	]
+}
