@@ -23,6 +23,9 @@
   "enchantment.level.20": "XX",
   "enchantment.level.30": "XXX",
 
+  "block.minecraft.mud": "Muck",
+
+
   "multiplayer.player.joined": "%s has arrived",
   "multiplayer.player.left": "%s ditched you"
 }
