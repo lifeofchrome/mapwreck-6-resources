@@ -30,6 +30,6 @@
 		{"predicate": {"custom_model_data":5322}, "model": "area_0:perk_bottles/sweet"},
 		{"predicate": {"custom_model_data":5323}, "model": "area_0:perk_bottles/terracotta"},
 		{"predicate": {"custom_model_data":5324}, "model": "area_0:perk_bottles/trinket"},
-		{"predicate": {"custom_model_data":5325}, "model": "area_0:perk_bottles/wither"}
+		{"predicate": {"custom_model_data":5325}, "model": "area_0:perk_bottles/wither"}	
 	]
 }

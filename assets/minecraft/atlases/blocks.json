@@ -106,6 +106,14 @@
         },
         {
             "type": "single",
+            "resource": "area_0:perk_bottles/empty/fame"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/empty/normal"
+        },
+        {
+            "type": "single",
             "resource": "delta:transparent"
         },
         {

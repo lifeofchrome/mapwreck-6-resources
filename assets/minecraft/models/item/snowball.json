@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/snowball"
+    },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5326}, "model": "area_0:perk_bottles/empty/normal"},
+		{"predicate": {"custom_model_data":5327}, "model": "area_0:perk_bottles/empty/fame"}	
+	]
+}
