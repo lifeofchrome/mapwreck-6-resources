@@ -19,7 +19,7 @@
       "model": "minecraft:block/mangrove_propagule_hanging_2"
     },
     "age=3,hanging=false": {
-      "model": "minecraft:block/wheat_stage3"
+      "model": "minecraft:block/mangrove_propagule"
     },
     "age=3,hanging=true": {
       "model": "minecraft:block/mangrove_propagule_hanging_3"
