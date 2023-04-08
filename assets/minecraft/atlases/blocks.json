@@ -2,7 +2,55 @@
     "sources": [
         {
             "type": "single",
+            "resource": "area_0:perk_bottles/admin"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/cliffside"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/combat"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/designers"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/designer"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/ender"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/fizz"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/glow"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/ilixir"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/intentional"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/leimonade"
+        },
+        {
+            "type": "single",
             "resource": "area_0:perk_bottles/liquid"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/melancholy"
         },
         {
             "type": "single",
@@ -10,11 +58,51 @@
         },
         {
             "type": "single",
+            "resource": "area_0:perk_bottles/pufferfish"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/salvation"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/salvo"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/scaffolding"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/scute"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/shulker"
+        },
+        {
+            "type": "single",
             "resource": "area_0:perk_bottles/slime"
         },
         {
             "type": "single",
+            "resource": "area_0:perk_bottles/sweet"
+        },
+        {
+            "type": "single",
             "resource": "area_0:perk_bottles/swiftness"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/terracotta"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/trinket"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/wither"
         },
         {
             "type": "single",

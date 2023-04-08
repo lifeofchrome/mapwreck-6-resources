@@ -9,6 +9,27 @@
 		{"predicate": {"custom_model_data":5301}, "model": "area_0:perk_bottles/liquid"},
 		{"predicate": {"custom_model_data":5302}, "model": "area_0:perk_bottles/missing"},
 		{"predicate": {"custom_model_data":5303}, "model": "area_0:perk_bottles/slime"},
-		{"predicate": {"custom_model_data":5304}, "model": "area_0:perk_bottles/swiftness"}
+		{"predicate": {"custom_model_data":5304}, "model": "area_0:perk_bottles/swiftness"},
+		{"predicate": {"custom_model_data":5305}, "model": "area_0:perk_bottles/admin"},
+		{"predicate": {"custom_model_data":5306}, "model": "area_0:perk_bottles/cliffside"},
+		{"predicate": {"custom_model_data":5307}, "model": "area_0:perk_bottles/combat"},
+		{"predicate": {"custom_model_data":5308}, "model": "area_0:perk_bottles/designers"},
+		{"predicate": {"custom_model_data":5309}, "model": "area_0:perk_bottles/ender"},
+		{"predicate": {"custom_model_data":5310}, "model": "area_0:perk_bottles/fizz"},
+		{"predicate": {"custom_model_data":5311}, "model": "area_0:perk_bottles/glow"},
+		{"predicate": {"custom_model_data":5312}, "model": "area_0:perk_bottles/ilixir"},
+		{"predicate": {"custom_model_data":5313}, "model": "area_0:perk_bottles/intentional"},
+		{"predicate": {"custom_model_data":5314}, "model": "area_0:perk_bottles/leimonade"},
+		{"predicate": {"custom_model_data":5315}, "model": "area_0:perk_bottles/melancholy"},
+		{"predicate": {"custom_model_data":5316}, "model": "area_0:perk_bottles/pufferfish"},
+		{"predicate": {"custom_model_data":5317}, "model": "area_0:perk_bottles/salvation"},
+		{"predicate": {"custom_model_data":5318}, "model": "area_0:perk_bottles/salvo"},
+		{"predicate": {"custom_model_data":5319}, "model": "area_0:perk_bottles/scaffolding"},
+		{"predicate": {"custom_model_data":5320}, "model": "area_0:perk_bottles/scute"},
+		{"predicate": {"custom_model_data":5321}, "model": "area_0:perk_bottles/shulker"},
+		{"predicate": {"custom_model_data":5322}, "model": "area_0:perk_bottles/sweet"},
+		{"predicate": {"custom_model_data":5323}, "model": "area_0:perk_bottles/terracotta"},
+		{"predicate": {"custom_model_data":5324}, "model": "area_0:perk_bottles/trinket"},
+		{"predicate": {"custom_model_data":5325}, "model": "area_0:perk_bottles/wither"}
 	]
 }
