@@ -1,4 +1,28 @@
 {
+	"camellia.icepath": {
+        "sounds": [
+			{
+				"name": "camellia/icepath",
+				"stream":true
+			}
+        ]
+    },
+	"camellia.psycho_heroes": {
+        "sounds": [
+			{
+				"name": "camellia/psychoheroes",
+				"stream":true
+			}
+        ]
+    },
+	"camellia.chasing_the_flying_wings": {
+        "sounds": [
+			{
+				"name": "camellia/chasingtheflyingwings",
+				"stream":true
+			}
+        ]
+    },
     "entity.generic.explode": {
         "replace": true,
         "sounds": [
