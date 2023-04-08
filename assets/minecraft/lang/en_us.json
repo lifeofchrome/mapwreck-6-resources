@@ -23,5 +23,8 @@
   "enchantment.level.20": "XX",
   "enchantment.level.30": "XXX",
 
-  "block.minecraft.mud": "Muck"
+  "block.minecraft.mud": "Muck",
+
+  "block.minecraft.mangrove_propagule": "Mangrove Propagule - Makes crops depending on age"
+
 }
