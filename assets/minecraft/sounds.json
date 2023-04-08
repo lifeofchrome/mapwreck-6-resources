@@ -13,5 +13,29 @@
             "random/explode4"
         ],
         "subtitle": "subtitles.entity.generic.explode"
-    }
+    },
+    "sfx.kiss": {
+		"sounds": [
+			{
+				"name": "sfx/kiss",
+				"stream": true
+			}
+		]
+	},
+    "sfx.win": {
+		"sounds": [
+			{
+				"name": "sfx/win",
+				"stream": true
+			}
+		]
+	},
+    "music.quillvermumbonumber9": {
+		"sounds": [
+			{
+				"name": "music/quillvermumbonumber9",
+				"stream": true
+			}
+		]
+	}
 }
