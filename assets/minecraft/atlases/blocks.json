@@ -2,6 +2,22 @@
     "sources": [
         {
             "type": "single",
+            "resource": "area_0:blocks/crag"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/overgrown_crag/top"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/overgrown_crag/bottom"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/overgrown_crag/side"
+        },
+        {
+            "type": "single",
             "resource": "area_0:perk_bottles/admin"
         },
         {

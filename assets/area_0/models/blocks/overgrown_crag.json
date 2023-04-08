@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "area_0:blocks/overgrown_crag/top",
+    "bottom": "area_0:blocks/overgrown_crag/bottom",
+    "side": "area_0:blocks/overgrown_crag/side"
+  }
+}
