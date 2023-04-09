@@ -25,6 +25,9 @@
 
   "block.minecraft.mud": "Muck",
 
+  "death.attack.moo": "%1$s got hacked on",
+
+
   "block.minecraft.mangrove_propagule": "Mangrove Propagule - Makes crops depending on age"
 
 }
