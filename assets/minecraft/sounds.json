@@ -69,5 +69,13 @@
 				"stream": true
 			}
 		]
+	},
+    "mob.cicada": {
+		"sounds": [
+			{
+				"name": "mob/cicada",
+				"stream": false
+			}
+		]
 	}
 }
