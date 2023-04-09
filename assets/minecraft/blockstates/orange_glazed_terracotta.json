@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "area_0:blocks/lapis_ore/crag",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "area_0:blocks/lapis_ore/calcite"
+    },
+    "facing=south": {
+      "model": "minecraft:block/andesite"
+    },
+    "facing=west": {
+      "model": "minecraft:block/andesite"
+    }
+  }
+}

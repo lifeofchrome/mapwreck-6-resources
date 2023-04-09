@@ -30,6 +30,14 @@
         },
         {
             "type": "single",
+            "resource": "area_0:blocks/lapis_ore/calcite"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/lapis_ore/crag"
+        },
+        {
+            "type": "single",
             "resource": "area_0:perk_bottles/admin"
         },
         {

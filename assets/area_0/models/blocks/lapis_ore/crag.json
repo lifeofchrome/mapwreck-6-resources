@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "area_0:blocks/lapis_ore/crag",
+    "bottom": "area_0:blocks/lapis_ore/crag",
+    "side": "area_0:blocks/lapis_ore/crag"
+  }
+}
