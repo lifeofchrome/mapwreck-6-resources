@@ -6,6 +6,18 @@
         },
         {
             "type": "single",
+            "resource": "area_0:blocks/overgrown_calcite/top"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/overgrown_calcite/bottom"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/overgrown_calcite/side"
+        },
+        {
+            "type": "single",
             "resource": "area_0:blocks/overgrown_crag/top"
         },
         {
@@ -19,6 +31,10 @@
         {
             "type": "single",
             "resource": "area_0:perk_bottles/admin"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/bauble"
         },
         {
             "type": "single",
@@ -71,6 +87,10 @@
         {
             "type": "single",
             "resource": "area_0:perk_bottles/missing"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:perk_bottles/panacea"
         },
         {
             "type": "single",
