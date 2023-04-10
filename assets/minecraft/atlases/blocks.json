@@ -18,6 +18,10 @@
         },
         {
             "type": "single",
+            "resource": "area_0:blocks/thirsty_bark"
+        },
+        {
+            "type": "single",
             "resource": "area_0:blocks/overgrown_crag/top"
         },
         {
