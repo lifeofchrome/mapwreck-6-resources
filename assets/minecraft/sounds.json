@@ -46,6 +46,14 @@
 			}
 		]
 	},
+    "sfx.vineboom": {
+		"sounds": [
+			{
+				"name": "sfx/vineboom",
+				"stream": true
+			}
+		]
+	},
     "sfx.win": {
 		"sounds": [
 			{
