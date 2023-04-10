@@ -6,6 +6,7 @@
 	
 	"overrides": [
 		{"predicate": {"custom_model_data":5326}, "model": "area_0:perk_bottles/empty/normal"},
-		{"predicate": {"custom_model_data":5327}, "model": "area_0:perk_bottles/empty/fame"}	
+		{"predicate": {"custom_model_data":5327}, "model": "area_0:perk_bottles/empty/fame"},
+        {"predicate": {"custom_model_data":12001}, "model": "area_12:rtomat" }	
 	]
 }
