@@ -2,6 +2,18 @@
     "sources": [
         {
             "type": "single",
+            "resource": "area_12:tomat"
+        },
+        {
+            "type": "single",
+            "resource": "area_12:rtomat"
+        },
+        {
+            "type": "single",
+            "resource": "area_12:gtomat"
+        },
+        {
+            "type": "single",
             "resource": "area_0:blocks/crag"
         },
         {
@@ -15,6 +27,10 @@
         {
             "type": "single",
             "resource": "area_0:blocks/overgrown_calcite/side"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/thirsty_bark"
         },
         {
             "type": "single",

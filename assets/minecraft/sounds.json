@@ -23,6 +23,44 @@
 			}
         ]
     },
+	"camellia.xeroa": {
+        "sounds": [
+			{
+				"name": "camellia/xeroa",
+				"stream":true
+			}
+        ]
+    },
+	"camellia.abyss_of_frobenoid": {
+        "sounds": [
+			{
+				"name": "camellia/abyssoffrobenoid",
+				"stream":true
+			}
+        ]
+    },
+	"camellia.finorza": {
+        "sounds": [
+			{
+				"name": "camellia/finorza",
+				"stream":true
+			}
+        ]
+    },
+	"camellia.drenched_in_air": {
+        "sounds": [
+			{
+				"name": "camellia/drenchedinair",
+				"stream":true
+			}
+        ]
+    },
+	"item.goat_horn.sound.7": {
+        "replace": true,
+        "sounds": [
+			"sfx/vineboom"
+        ]
+    },
     "entity.generic.explode": {
         "replace": true,
         "sounds": [

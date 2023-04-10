@@ -4,6 +4,7 @@
         {"predicate":{"custom_model_data":5301},"model":"area_0:blocks/crag"},
 		{"predicate":{"custom_model_data":5302},"model":"area_0:blocks/overgrown_crag"},
 		{"predicate":{"custom_model_data":5303},"model":"area_0:blocks/overgrown_calcite"},
+		{"predicate":{"custom_model_data":5304},"model":"area_0:blocks/thirsty_bark"},
 		{"predicate": {"custom_model_data": 2147483647}, "model": "end:dummy/foo_bar"}
     ]
 }

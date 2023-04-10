@@ -11,7 +11,7 @@
       "model": "area_0:blocks/overgrown_calcite"
     },
     "facing=west": {
-      "model": "minecraft:block/andesite"
+      "model": "area_0:blocks/thirsty_bark"
     }
   }
 }
