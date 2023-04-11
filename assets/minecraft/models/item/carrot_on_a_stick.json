@@ -7,11 +7,10 @@
 	"overrides": [	
 		{"predicate": {"custom_model_data":1}, "model": "linkmw/slingshot"},
 		{"predicate": {"custom_model_data":2}, "model": "linkmw/carrotcannon"},
+		{"predicate": {"custom_model_data":5301}, "model": "area_0:items/favor"},
 		{"predicate": {"custom_model_data":9901}, "model": "inasa:coas/golden_carrot"},
 		{"predicate": {"custom_model_data":9902}, "model": "inasa:coas/upsidown_carrot"},
 		{"predicate": {"custom_model_data":9903}, "model": "inasa:coas/ender_pearl"},
 		{"predicate": {"custom_model_data":9904}, "model": "inasa:coas/interaction"}
-		
-		
 	]
 }
