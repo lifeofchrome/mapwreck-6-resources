@@ -453,6 +453,11 @@
 			}
 		}
 	],
+	"display": {
+		"ground": {
+			"rotation": [0, 180, 0]
+		}
+	},
 	"groups": [
 		{
 			"name": "big segment",
