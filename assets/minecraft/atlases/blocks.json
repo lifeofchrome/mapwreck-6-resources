@@ -2,18 +2,6 @@
     "sources": [
         {
             "type": "single",
-            "resource": "area_12:tomat"
-        },
-        {
-            "type": "single",
-            "resource": "area_12:rtomat"
-        },
-        {
-            "type": "single",
-            "resource": "area_12:gtomat"
-        },
-        {
-            "type": "single",
             "resource": "area_0:blocks/crag"
         },
         {
@@ -30,10 +18,6 @@
         },
         {
             "type": "single",
-            "resource": "area_0:blocks/thirsty_bark"
-        },
-        {
-            "type": "single",
             "resource": "area_0:blocks/overgrown_crag/top"
         },
         {
@@ -46,11 +30,19 @@
         },
         {
             "type": "single",
+            "resource": "area_0:blocks/thirsty_bark"
+        },
+        {
+            "type": "single",
             "resource": "area_0:blocks/lapis_ore/calcite"
         },
         {
             "type": "single",
             "resource": "area_0:blocks/lapis_ore/crag"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:items/favor"
         },
         {
             "type": "single",
@@ -171,6 +163,18 @@
         {
             "type": "single",
             "resource": "area_0:perk_bottles/empty/normal"
+        },
+        {
+            "type": "single",
+            "resource": "area_12:gtomat"
+        },
+        {
+            "type": "single",
+            "resource": "area_12:rtomat"
+        },
+        {
+            "type": "single",
+            "resource": "area_12:tomat"
         },
         {
             "type": "single",
