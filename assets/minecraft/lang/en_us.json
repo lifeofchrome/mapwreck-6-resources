@@ -28,6 +28,7 @@
 
   "death.attack.moo": "%1$s got hacked on",
   "death.attack.worm": "%1$s got wormed",
+  "death.attack.worm.player": "%1$s got wormed",
 
 
   "block.minecraft.mangrove_propagule": "Mangrove Propagule - Makes crops depending on age"
