@@ -92,6 +92,14 @@
 			}
 		]
 	},
+    "sfx.sloosh": {
+		"sounds": [
+			{
+				"name": "sfx/sloosh",
+				"stream": true
+			}
+		]
+	},
     "sfx.win": {
 		"sounds": [
 			{
