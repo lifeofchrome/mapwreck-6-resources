@@ -31,7 +31,7 @@
   "death.attack.worm.player": "%1$s got wormed",
   "death.attack.parrot_suck": "%1$s sacraficed themselves to the divebomb gods",
 
-
+  "soundCategory.ambient": "Custom Music",
   "block.minecraft.mangrove_propagule": "Mangrove Propagule - Makes crops depending on age"
 
 }
