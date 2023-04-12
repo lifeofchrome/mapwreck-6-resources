@@ -9,6 +9,7 @@
         },
         { "predicate": {"custom_model_data": 103}, "model": "item/swords/bow"},
 		{ "predicate": {"custom_model_data": 5301}, "model": "area_0:ppg_filler"},
+		{ "predicate": {"custom_model_data": 5302}, "model": "area_0:ppg_filler"},
 		{ "predicate": {"custom_model_data": 2147483647}, "model": "end:dummy/foo_bar"}
     ],
     "textures": {
