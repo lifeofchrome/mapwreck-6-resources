@@ -2,6 +2,22 @@
     "sources": [
         {
             "type": "single",
+            "resource": "area_0:panda1"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:panda2"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:panda3"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:ppg_filler"
+        },
+        {
+            "type": "single",
             "resource": "area_0:blocks/crag"
         },
         {
@@ -163,6 +179,10 @@
         {
             "type": "single",
             "resource": "area_0:perk_bottles/empty/normal"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:1"
         },
         {
             "type": "single",

@@ -92,10 +92,26 @@
 			}
 		]
 	},
+    "sfx.sloosh": {
+		"sounds": [
+			{
+				"name": "sfx/sloosh",
+				"stream": true
+			}
+		]
+	},
     "sfx.win": {
 		"sounds": [
 			{
 				"name": "sfx/win",
+				"stream": true
+			}
+		]
+	},
+    "sfx.farmervoiceline": {
+		"sounds": [
+			{
+				"name": "sfx/farmervoiceline",
 				"stream": true
 			}
 		]
