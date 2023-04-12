@@ -1,0 +1,9 @@
+{
+	"parent":"item/handheld",
+	"textures":{
+	   "layer0":"item/light_blue_dye"
+	},
+	"overrides":[
+		{ "predicate":{ "custom_model_data": 301 }, "model":"item/diamond" }
+	]
+ }
