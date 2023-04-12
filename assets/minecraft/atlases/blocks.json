@@ -5,6 +5,10 @@
             "resource": "area_0:ppg_filler"
         },
         {
+            "type":"single",
+            "resource": "area_10:1"
+        },
+        {
             "type": "single",
             "resource": "area_0:blocks/crag"
         },
