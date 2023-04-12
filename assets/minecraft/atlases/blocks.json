@@ -2,6 +2,10 @@
     "sources": [
         {
             "type": "single",
+            "resource": "area_0:ppg_filler"
+        },
+        {
+            "type": "single",
             "resource": "area_0:blocks/crag"
         },
         {
