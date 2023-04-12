@@ -2,6 +2,7 @@
   "parent": "minecraft:block/glass",
   "overrides": [
         {"predicate":{"custom_model_data":5301},"model":"area_0:panda"},
+		{"predicate":{"custom_model_data":5302},"model":"area_0:panda_lowered"},
 		{"predicate": {"custom_model_data": 2147483647}, "model": "end:dummy/foo_bar"}
     ]
 }
