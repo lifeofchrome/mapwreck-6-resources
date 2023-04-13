@@ -4,6 +4,7 @@
         {"predicate":{"custom_model_data":5301},"model":"area_0:blocks/lapis_ore/crag"},
 		{"predicate":{"custom_model_data":5302},"model":"area_0:blocks/lapis_ore/calcite"},
 		{"predicate":{"custom_model_data":5303},"model":"area_0:blocks/plating"},
+		{"predicate":{"custom_model_data":5304},"model":"area_0:blocks/smooth_quartz_bookshelf"},
 		{"predicate": {"custom_model_data": 2147483647}, "model": "end:dummy/foo_bar"}
     ]
 }

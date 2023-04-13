@@ -50,6 +50,18 @@
         },
         {
             "type": "single",
+            "resource": "area_0:blocks/smooth_quartz_bookshelf/top"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/smooth_quartz_bookshelf/bottom"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/smooth_quartz_bookshelf/side"
+        },
+        {
+            "type": "single",
             "resource": "area_0:blocks/thirsty_bark"
         },
         {
@@ -63,6 +75,14 @@
         {
             "type": "single",
             "resource": "area_0:items/favor"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:items/juan"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:items/tainted_apple"
         },
         {
             "type": "single",
