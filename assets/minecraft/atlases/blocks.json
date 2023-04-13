@@ -198,6 +198,26 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:area6_gear1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:area6_gear2"
+        },
+        {
+            "type": "single",
+            "resource": "area_9:feathered_serpent_body"
+        },
+        {
+            "type": "single",
+            "resource": "area_9:feathered_serpent_head"
+        },
+        {
+            "type": "single",
+            "resource": "area_9:feathered_serpent_tail"
+        },
+        {
+            "type": "single",
             "resource": "delta:transparent"
         },
         {
