@@ -180,6 +180,14 @@
             "type": "single",
             "resource": "area_0:perk_bottles/empty/normal"
         },
+		{
+            "type": "single",
+            "resource": "area_6:gear_1"
+        },
+		{
+            "type": "single",
+            "resource": "area_6:gear_2"
+        },
         {
             "type": "single",
             "resource": "area_10:1"
