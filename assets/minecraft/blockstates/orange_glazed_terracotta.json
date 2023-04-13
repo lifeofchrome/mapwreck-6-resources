@@ -8,7 +8,7 @@
       "model": "area_0:blocks/lapis_ore/calcite"
     },
     "facing=south": {
-      "model": "minecraft:block/andesite"
+      "model": "area_0:blocks/plating"
     },
     "facing=west": {
       "model": "minecraft:block/andesite"

@@ -46,6 +46,10 @@
         },
         {
             "type": "single",
+            "resource": "area_0:blocks/plating"
+        },
+        {
+            "type": "single",
             "resource": "area_0:blocks/thirsty_bark"
         },
         {
@@ -180,14 +184,6 @@
             "type": "single",
             "resource": "area_0:perk_bottles/empty/normal"
         },
-		{
-            "type": "single",
-            "resource": "area_6:gear_1"
-        },
-		{
-            "type": "single",
-            "resource": "area_6:gear_2"
-        },
         {
             "type": "single",
             "resource": "area_10:1"
@@ -206,15 +202,19 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:area6_gear1"
+            "resource": "area_6:gear_1"
         },
         {
             "type": "single",
-            "resource": "minecraft:area6_gear2"
+            "resource": "area_6:gear_2"
         },
         {
             "type": "single",
             "resource": "area_9:feathered_serpent_body"
+        },
+        {
+            "type": "single",
+            "resource": "area_9:feathered_serpent_body_feathered"
         },
         {
             "type": "single",
