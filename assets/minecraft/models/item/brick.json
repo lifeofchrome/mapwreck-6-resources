@@ -1,10 +1,11 @@
 {
-	"parent":"minecraft:brick",
+	"parent":"item/generated",
 	"textures":{
 		"layer0":"item/brick"
 	},
 	"overrides":[
 	{"predicate":{"custom_model_data":6001},"model":"area_6:items/gear1"},
-	{"predicate":{"custom_model_data":6002},"model":"area_6:items/gear2"}]
+	{"predicate":{"custom_model_data":6002},"model":"area_6:items/gear2"}
+	]
 }
 	

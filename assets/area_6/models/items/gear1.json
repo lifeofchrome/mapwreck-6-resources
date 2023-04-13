@@ -1,5 +1,5 @@
 {
-	"parent":"minecraft:brick",
+	"parent":"item/generated",
 	"textures":{
 		"layer0":"area_6:gear_1"
 	}

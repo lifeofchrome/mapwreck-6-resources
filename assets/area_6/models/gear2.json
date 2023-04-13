@@ -1,6 +1,0 @@
-{
-	"parent":"item/handheld",
-	"textures":{
-		"layer0":"area6_gear2"
-	}
-}
