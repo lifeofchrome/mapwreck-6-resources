@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "area_0:blocks/erorr",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "area_0:blocks/erorr"
+    },
+    "facing=south": {
+      "model": "area_0:blocks/erorr"
+    },
+    "facing=west": {
+      "model": "area_0:blocks/erorr"
+    }
+  }
+}
