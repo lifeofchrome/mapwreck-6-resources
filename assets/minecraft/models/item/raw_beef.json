@@ -1,0 +1,9 @@
+{
+	"parent":"item/generated",
+	"textures":{
+		"layer0":"item/raw_beef"
+	},
+	"overrides":[
+	{"predicate":{"custom_model_data":6003},"model":"area_6:items/baguette"}
+	]
+}
