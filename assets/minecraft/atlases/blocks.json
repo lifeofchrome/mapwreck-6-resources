@@ -74,6 +74,10 @@
         },
         {
             "type": "single",
+            "resource": "area_0:butterfly"
+        },
+        {
+            "type": "single",
             "resource": "area_0:items/favor"
         },
         {
