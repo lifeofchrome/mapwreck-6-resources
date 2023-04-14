@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/nautilus_shell"
+    },
+
+    "overrides": [
+        {"predicate": {"custom_model_data": 1401}, "model": "area_14:amulet"},
+        {"predicate": {"custom_model_data": 1402}, "model": "block/azalea"}
+    ]
+}

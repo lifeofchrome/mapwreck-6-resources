@@ -250,6 +250,30 @@
         },
         {
             "type": "single",
+            "resource": "area_14:iron_katana"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:diamond_katana"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:netherite_katana"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:shikigami"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:amulet"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:sensu"
+        },
+        {
+            "type": "single",
             "resource": "delta:transparent"
         },
         {
