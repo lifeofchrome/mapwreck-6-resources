@@ -21,6 +21,23 @@
         "custom_model_data": 3
       },
       "model": "item/entity/worm/butt"
+    },{
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/entity/worm/bodypink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/entity/worm/headpink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/entity/worm/buttpink"
     }
   ]
 }

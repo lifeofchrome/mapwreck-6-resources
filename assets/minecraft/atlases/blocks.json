@@ -46,6 +46,22 @@
         },
         {
             "type": "single",
+            "resource": "area_0:blocks/plating"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/smooth_quartz_bookshelf/top"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/smooth_quartz_bookshelf/bottom"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/smooth_quartz_bookshelf/side"
+        },
+        {
+            "type": "single",
             "resource": "area_0:blocks/thirsty_bark"
         },
         {
@@ -58,7 +74,19 @@
         },
         {
             "type": "single",
+            "resource": "area_0:butterfly"
+        },
+        {
+            "type": "single",
             "resource": "area_0:items/favor"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:items/juan"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:items/tainted_apple"
         },
         {
             "type": "single",
@@ -195,6 +223,58 @@
         {
             "type": "single",
             "resource": "area_12:tomat"
+        },
+        {
+            "type": "single",
+            "resource": "area_6:gear_1"
+        },
+        {
+            "type": "single",
+            "resource": "area_6:gear_2"
+        },
+		{
+            "type": "single",
+            "resource": "area_6:baguette"
+        },
+        {
+            "type": "single",
+            "resource": "area_9:feathered_serpent_body"
+        },
+        {
+            "type": "single",
+            "resource": "area_9:feathered_serpent_body_feathered"
+        },
+        {
+            "type": "single",
+            "resource": "area_9:feathered_serpent_head"
+        },
+        {
+            "type": "single",
+            "resource": "area_9:feathered_serpent_tail"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:iron_katana"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:diamond_katana"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:netherite_katana"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:shikigami"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:amulet"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:sensu"
         },
         {
             "type": "single",

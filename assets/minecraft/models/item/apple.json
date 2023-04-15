@@ -1,0 +1,9 @@
+{
+	"parent":"item/generated",
+	"textures":{
+	   "layer0":"item/apple"
+	},
+	"overrides":[
+		{"predicate":{"custom_model_data":5301}, "model":"area_0:items/tainted_apple"}
+	]
+ }

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/purple_glazed_terracotta",
+  "overrides": [
+        {"predicate":{"custom_model_data":5301},"model":"area_0:blocks/erorr"}
+    ]
+}

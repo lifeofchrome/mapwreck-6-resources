@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "area_9:feathered_serpent_body",
+		"particle": "area_9:feathered_serpent_body"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 3],
+			"to": [12, 6, 13],
+			"faces": {
+				"north": {"uv": [10, 5, 14, 8], "texture": "#0"},
+				"east": {"uv": [0, 5, 5, 8], "texture": "#0"},
+				"south": {"uv": [10, 8, 14, 11], "texture": "#0"},
+				"west": {"uv": [5, 5, 10, 8], "texture": "#0"},
+				"up": {"uv": [4, 5, 0, 0], "texture": "#0"},
+				"down": {"uv": [8, 0, 4, 5], "texture": "#0"}
+			}
+		}
+	]
+}
